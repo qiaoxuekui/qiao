@@ -64,7 +64,7 @@
     [self chooseList];//初始化分类选择
     [self listArrays];//初始化list的数组
     
-    //测试git.........
+    //测试git................
 	// Do any additional setup after loading the view.
 }
 
