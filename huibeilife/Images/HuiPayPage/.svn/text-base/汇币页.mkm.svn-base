@@ -1,0 +1,12 @@
+<MKM version="2.0" imageFileUrl="file:///D:/2013.6.24/%e6%b1%87%e8%b4%9d1.2%e5%b7%a5%e7%a8%8b%e6%96%87%e4%bb%b6%e5%a4%b9/ios1.2%e5%88%87%e5%9b%be/%e6%b1%87%e5%b8%81%e9%a1%b5/%e6%b1%87%e5%b8%81%e9%a1%b5.png">
+  <Marks>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="279" y="177" textMaxWidth="100" offsetX="25" offsetY="10" text="22"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="14155776" offsetX="25" offsetY="10" x="289" y="189"/>
+    <LengthMark direction="12" color="16711680" length="20" x="209.5" y="196"/>
+    <LengthMark direction="3" color="16711680" length="186" x="298" y="576"/>
+    <LengthMark direction="12" color="16711680" length="34" x="42" y="611"/>
+    <LengthMark direction="3" color="16711680" length="28" x="82" y="576"/>
+    <LengthMark direction="3" color="16711680" length="22" x="122" y="577"/>
+    <LengthMark direction="12" color="16711680" length="22" x="91.5" y="613"/>
+  </Marks>
+</MKM>

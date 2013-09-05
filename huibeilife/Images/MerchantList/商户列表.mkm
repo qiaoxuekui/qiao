@@ -1,0 +1,25 @@
+<MKM version="2.0" imageFileUrl="file:///F:/%e6%b1%87%e8%b4%9d%e7%94%9f%e6%b4%bb/%e6%b1%87%e8%b4%9d1.2%e5%b7%a5%e7%a8%8b%e6%96%87%e4%bb%b6%e5%a4%b9/ios1.2%e5%88%87%e5%9b%be/%e5%95%86%e6%88%b7%e5%88%97%e8%a1%a8/%e5%95%86%e6%88%b7%e5%88%97%e8%a1%a8.png">
+  <Marks>
+    <TextMark defaultDirection="9" direction="5" color="16711680" x="596" y="60" textMaxWidth="100" offsetX="25" offsetY="10" text=" 全部紧贴"/>
+    <LengthMark direction="3" color="16711680" length="88" x="330" y="40"/>
+    <LengthMark direction="3" color="16711680" length="10" x="338" y="128"/>
+    <LengthMark direction="3" color="16711680" length="16" x="391" y="128"/>
+    <TextMark defaultDirection="6" direction="10" color="16711680" x="53" y="153" textMaxWidth="47" offsetX="58" offsetY="20" text="紧贴"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="506" y="137" textMaxWidth="100" offsetX="25" offsetY="10" text="24号"/>
+    <ColorMark defaultDirection="10" colorSystem="rgb" direction="10" color="16711680" targetColor="4013373" offsetX="23" offsetY="17" x="489" y="153"/>
+    <LengthMark direction="12" color="16711680" length="16" x="401" y="151"/>
+    <RectMark color="16711680" x="237" y="129" offsetX="40" offsetY="40"/>
+    <LengthMark direction="12" color="16711680" length="16" x="222" y="145"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="282" y="196" textMaxWidth="100" offsetX="25" offsetY="10" text="紧贴"/>
+    <LengthMark direction="3" color="16711680" length="174" x="476" y="175"/>
+    <LengthMark direction="12" color="16711680" length="10" x="631" y="255"/>
+    <LengthMark direction="12" color="16711680" length="10" x="0" y="301"/>
+    <LengthMark direction="12" color="16711680" length="164" x="0" y="208"/>
+    <LengthMark direction="3" color="16711680" length="30" x="173" y="175"/>
+    <LengthMark direction="3" color="16711680" length="76" x="199" y="175"/>
+    <LengthMark direction="3" color="16711680" length="122" x="220" y="175"/>
+    <RectMark color="16711680" x="157" y="245" offsetX="30" offsetY="30"/>
+    <RectMark color="16711680" x="157" y="295" offsetX="30" offsetY="30"/>
+    <LengthMark direction="12" color="16711680" length="156" x="0" y="265"/>
+  </Marks>
+</MKM>

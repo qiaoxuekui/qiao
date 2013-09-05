@@ -1,0 +1,8 @@
+<MKM version="2.0" imageFileUrl="file:///F:/%e6%b1%87%e8%b4%9d%e7%94%9f%e6%b4%bb/%e6%b1%87%e8%b4%9d1.2%e5%b7%a5%e7%a8%8b%e6%96%87%e4%bb%b6%e5%a4%b9/ios1.2%e5%88%87%e5%9b%be/%e4%bc%9a%e5%91%98%e5%ae%9d%e5%88%97%e8%a1%a8/%e4%bc%9a%e5%91%98%e5%ae%9d.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="28" x="530" y="141"/>
+    <LengthMark direction="12" color="16711680" length="78" x="562" y="199"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="119" y="168" textMaxWidth="100" offsetX="25" offsetY="10" text="紧跟"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="246" y="166" textMaxWidth="100" offsetX="25" offsetY="10" text="居中"/>
+  </Marks>
+</MKM>

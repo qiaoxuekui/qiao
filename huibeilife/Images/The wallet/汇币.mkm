@@ -1,0 +1,30 @@
+<MKM version="2.0" imageFileUrl="file:///D:/2013.6.24/%e6%b1%87%e8%b4%9d1.2%e5%b7%a5%e7%a8%8b%e6%96%87%e4%bb%b6%e5%a4%b9/ios1.2%e6%95%88%e6%9e%9c%e5%9b%be/%e6%b1%87%e5%b8%81.png">
+  <Marks>
+    <RectMark color="16711680" x="-1" y="40" offsetX="640" offsetY="88"/>
+    <LengthMark direction="3" color="16711680" length="8" x="113" y="127"/>
+    <LengthMark direction="3" color="16711680" length="72" x="217" y="127"/>
+    <LengthMark direction="3" color="16711680" length="34" x="239" y="128"/>
+    <LengthMark direction="3" color="16711680" length="52" x="594" y="127.5"/>
+    <LengthMark direction="12" color="16711680" length="16" x="623.5" y="197"/>
+    <LengthMark direction="3" color="16711680" length="82" x="317" y="128"/>
+    <LengthMark direction="12" color="16711680" length="46" x="1" y="201"/>
+    <LengthMark direction="12" color="16711680" length="184" x="0.5" y="225"/>
+    <LengthMark direction="3" color="16711680" length="156" x="523" y="118"/>
+    <LengthMark direction="3" color="16711680" length="146" x="401" y="128"/>
+    <LengthMark direction="3" color="16711680" length="58" x="129" y="274"/>
+    <LengthMark direction="12" color="16711680" length="72" x="0" y="366"/>
+    <LengthMark direction="12" color="16711680" length="72" x="566" y="354"/>
+    <LengthMark direction="12" color="16711680" length="120" x="72" y="382"/>
+    <LengthMark direction="12" color="16711680" length="68" x="191" y="363"/>
+    <LengthMark direction="12" color="16711680" length="66" x="377" y="366"/>
+    <LengthMark direction="3" color="16711680" length="80" x="119" y="448"/>
+    <LengthMark direction="12" color="16711680" length="98" x="1" y="477"/>
+    <LengthMark direction="12" color="16711680" length="290" x="0" y="464"/>
+    <LengthMark direction="12" color="16711680" length="462" x="1" y="491"/>
+    <LengthMark direction="3" color="16711680" length="14" x="467" y="448"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="7884584" offsetX="25" offsetY="10" x="161" y="671"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="96" y="681" textMaxWidth="100" offsetX="25" offsetY="10" text="26"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="295" y="173" textMaxWidth="100" offsetX="25" offsetY="10" text="28 白色加阴影"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="378" y="227" textMaxWidth="100" offsetX="25" offsetY="10" text="18 白色1像素黑色阴影"/>
+  </Marks>
+</MKM>

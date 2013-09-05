@@ -1,0 +1,23 @@
+<MKM version="2.0" imageFileUrl="file:///F:/%e6%b1%87%e8%b4%9d%e7%94%9f%e6%b4%bb/%e6%b1%87%e8%b4%9d1.2%e5%b7%a5%e7%a8%8b%e6%96%87%e4%bb%b6%e5%a4%b9/ios1.2%e5%88%87%e5%9b%be/%e9%80%89%e6%8b%a9%e5%9f%8e%e5%b8%82/%e9%80%89%e6%8b%a9%e5%9f%8e%e5%b8%82.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="88" x="285" y="40"/>
+    <LengthMark direction="3" color="16711680" length="24" x="171" y="128"/>
+    <LengthMark direction="3" color="16711680" length="10" x="606" y="128"/>
+    <LengthMark direction="12" color="16711680" length="42" x="0" y="165"/>
+    <LengthMark direction="12" color="16711680" length="62" x="0" y="234"/>
+    <LengthMark direction="3" color="16711680" length="68" x="106" y="128"/>
+    <LengthMark direction="12" color="16711680" length="96" x="122" y="233"/>
+    <LengthMark direction="3" color="16711680" length="70" x="311" y="199"/>
+    <ColorMark defaultDirection="9" colorSystem="rgb" direction="9" color="16711680" targetColor="14260480" offsetX="25" offsetY="10" x="382" y="232"/>
+    <ColorMark defaultDirection="9" colorSystem="rgb" direction="9" color="16711680" targetColor="16620820" offsetX="25" offsetY="10" x="65" y="383"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="148" y="173" textMaxWidth="100" offsetX="34" offsetY="13" text="30号"/>
+    <ColorMark defaultDirection="10" colorSystem="rgb" direction="10" color="16711680" targetColor="1973790" offsetX="79" offsetY="13" x="146" y="159"/>
+    <LengthMark direction="12" color="16711680" length="51" x="0" y="379"/>
+    <LengthMark direction="3" color="16711680" length="30" x="61" y="336"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="413" y="286" textMaxWidth="100" offsetX="25" offsetY="10" text="30"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="74" y="437" textMaxWidth="100" offsetX="25" offsetY="10" text="30"/>
+    <LengthMark direction="3" color="16711680" length="70" x="246" y="411"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="396" y="481" textMaxWidth="100" offsetX="25" offsetY="10" text="居中"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="103" y="530" textMaxWidth="100" offsetX="25" offsetY="10" text="上下居中"/>
+  </Marks>
+</MKM>

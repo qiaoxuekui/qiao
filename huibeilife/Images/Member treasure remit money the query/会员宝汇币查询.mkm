@@ -1,0 +1,21 @@
+<MKM version="2.0" imageFileUrl="file:///F:/%e6%b1%87%e8%b4%9d%e7%94%9f%e6%b4%bb/%e6%b1%87%e8%b4%9d1.2%e5%b7%a5%e7%a8%8b%e6%96%87%e4%bb%b6%e5%a4%b9/ios1.2%e5%88%87%e5%9b%be/%e4%bc%9a%e5%91%98%e5%ae%9d%e6%b1%87%e5%b8%81%e6%9f%a5%e8%af%a2/%e4%bc%9a%e5%91%98%e5%ae%9d%e6%b1%87%e5%b8%81%e6%9f%a5%e8%af%a2.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="88" x="319" y="40"/>
+    <LengthMark direction="3" color="16711680" length="16" x="308" y="128"/>
+    <LengthMark direction="3" color="16711680" length="16" x="269" y="432"/>
+    <LengthMark direction="3" color="16711680" length="32" x="85" y="128"/>
+    <LengthMark direction="3" color="16711680" length="56" x="171" y="128"/>
+    <LengthMark direction="3" color="16711680" length="36" x="546" y="128"/>
+    <LengthMark direction="3" color="16711680" length="106" x="525" y="128"/>
+    <LengthMark direction="3" color="16711680" length="232" x="150" y="128"/>
+    <LengthMark direction="12" color="16711680" length="1" x="618" y="504"/>
+    <TextMark defaultDirection="10" direction="10" color="16711680" x="216" y="205" textMaxWidth="100" offsetX="31" offsetY="31" text="32号加粗带阴影"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="217" y="365" textMaxWidth="100" offsetX="35" offsetY="13" text="32"/>
+    <TextMark defaultDirection="6" direction="6" color="16711680" x="514" y="248" textMaxWidth="100" offsetX="23" offsetY="10" text="20"/>
+    <TextMark defaultDirection="6" direction="6" color="16711680" x="95" y="213" textMaxWidth="100" offsetX="29" offsetY="29" text="紧贴"/>
+    <LengthMark direction="12" color="16711680" length="36" x="40" y="382"/>
+    <RectMark color="16711680" x="49" y="161" offsetX="70" offsetY="70"/>
+    <LengthMark direction="12" color="16711680" length="10" x="40" y="209"/>
+    <ColorMark defaultDirection="9" colorSystem="rgb" direction="9" color="16711680" targetColor="8937515" offsetX="25" offsetY="10" x="255" y="186"/>
+  </Marks>
+</MKM>

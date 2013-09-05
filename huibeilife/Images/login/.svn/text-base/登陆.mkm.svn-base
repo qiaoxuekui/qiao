@@ -1,0 +1,14 @@
+<MKM version="2.0" imageFileUrl="file:///F:/%e6%b1%87%e8%b4%9d%e7%94%9f%e6%b4%bb/%e6%b1%87%e8%b4%9d1.2%e5%b7%a5%e7%a8%8b%e6%96%87%e4%bb%b6%e5%a4%b9/ios1.2%e5%88%87%e5%9b%be/%e7%99%bb%e9%99%86/%e7%99%bb%e9%99%86.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="88" x="322" y="40"/>
+    <LengthMark direction="3" color="16711680" length="50" x="349" y="128"/>
+    <LengthMark direction="3" color="16711680" length="30" x="331" y="233"/>
+    <LengthMark direction="3" color="16711680" length="270" x="415" y="128"/>
+    <LengthMark direction="3" color="16711680" length="370" x="453" y="129"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="111" y="192" textMaxWidth="100" offsetX="25" offsetY="10" text="24"/>
+    <ColorMark defaultDirection="9" colorSystem="rgb" direction="9" color="16711680" targetColor="11184810" offsetX="25" offsetY="10" x="169" y="208"/>
+    <ColorMark defaultDirection="9" colorSystem="rgb" direction="9" color="16711680" targetColor="4671303" offsetX="25" offsetY="10" x="274" y="429"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="355" y="444" textMaxWidth="100" offsetX="25" offsetY="10" text="36"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="274" y="525" textMaxWidth="100" offsetX="25" offsetY="10" text="36白色"/>
+  </Marks>
+</MKM>

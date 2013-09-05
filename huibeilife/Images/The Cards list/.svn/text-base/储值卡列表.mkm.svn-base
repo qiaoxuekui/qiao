@@ -1,0 +1,13 @@
+<MKM version="2.0" imageFileUrl="file:///F:/%e6%b1%87%e8%b4%9d%e7%94%9f%e6%b4%bb/%e6%b1%87%e8%b4%9d1.2%e5%b7%a5%e7%a8%8b%e6%96%87%e4%bb%b6%e5%a4%b9/ios1.2%e5%88%87%e5%9b%be/%e5%82%a8%e5%80%bc%e5%8d%a1%e5%88%97%e8%a1%a8/%e5%82%a8%e5%80%bc%e5%8d%a1%e5%88%97%e8%a1%a8.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="88" x="299" y="40"/>
+    <LengthMark direction="3" color="16711680" length="16" x="315" y="128"/>
+    <LengthMark direction="3" color="16711680" length="34" x="295" y="144"/>
+    <LengthMark direction="3" color="16711680" length="30" x="524" y="144"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="84" y="175" textMaxWidth="100" offsetX="25" offsetY="10" text="36号，白色"/>
+    <TextMark defaultDirection="6" direction="6" color="16711680" x="461" y="211" textMaxWidth="100" offsetX="48" offsetY="17" text="48号白色，3像素黑色阴影20%半透"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="85" y="252" textMaxWidth="100" offsetX="25" offsetY="10" text="列表之间紧贴"/>
+    <LengthMark direction="12" color="16711680" length="62" x="-0.5" y="193"/>
+    <LengthMark direction="12" color="16711680" length="54" x="586" y="208"/>
+  </Marks>
+</MKM>
